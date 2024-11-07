@@ -63,9 +63,9 @@ multi-stylegs video:
 | method  | scene1 video | 
 | ------------- | -------------|
 | arf | <img src="https://github.com/user-attachments/assets/b9f4d4b3-b3ec-431a-92b4-9f11c634e672" width="500" height="300"/> |
-|  snerf  | <img src="https://github.com/user-attachments/assets/9bc12f57-b6c4-4e17-9ac9-9442a5f9c5bc" width="340" height="250"/>|
-|ref-npr |  <img src="https://github.com/user-attachments/assets/d0d73bc3-c34d-4488-a149-eec475c40e1b" width="340" height="250"/>|
-|our |  |
+|  snerf  | <img src="https://github.com/user-attachments/assets/9bc12f57-b6c4-4e17-9ac9-9442a5f9c5bc" width="500" height="300"/>|
+|ref-npr |  <img src="https://github.com/user-attachments/assets/d0d73bc3-c34d-4488-a149-eec475c40e1b" width="500" height="300"/>|
+|our |  <img src="https://github.com/user-attachments/assets/50a01859-47a7-427a-9f3e-392c4265f1d7" width="500" height="300"/> |
 
 ##### Horse
 
