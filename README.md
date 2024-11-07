@@ -35,16 +35,21 @@ https://github.com/user-attachments/assets/da50cdd9-c26f-464a-9472-35426290e6ee
 
 #### Figure 4
 ##### Flower
-| method  | video |
-| ------------- | ------------- |
-| arf  |![arf_flower_0](https://github.com/user-attachments/assets/a049ae3a-0ac0-493a-9387-399c727cde0c)  |
-|  snerf |  ![snerf_flower_0](https://github.com/user-attachments/assets/3f4e4e47-bb59-4231-be40-364dda351156)|
-|ref-npr| ![refnpr_flower_0](https://github.com/user-attachments/assets/a454feaa-11e6-44e3-9759-48038b58c741)|
-|our|<img src="https://github.com/user-attachments/assets/1d50563e-3881-45eb-8b56-6c6479cbfd13" width="340" height="250"/>|
-|our(free trajectory)| ![our_flower](https://github.com/user-attachments/assets/e744d0b9-d7dc-4098-9b15-2a08e3a33b82) |
-
-
+| method  | scene1 video |    scene2 video        |
+| ------------- | ------------- | ------------- |
+| arf  |![arf_flower_0](https://github.com/user-attachments/assets/a049ae3a-0ac0-493a-9387-399c727cde0c)  | <img src="https://github.com/user-attachments/assets/0ad95b82-9b3c-4888-aef1-34fe5f1b06a1" width="340" height="250"/> |
+|  snerf |  ![snerf_flower_0](https://github.com/user-attachments/assets/3f4e4e47-bb59-4231-be40-364dda351156)|<img src="https://github.com/user-attachments/assets/751c27d5-0d83-4af2-9bc6-7828a656760b" width="340" height="250"/>  |
+|ref-npr| ![refnpr_flower_0](https://github.com/user-attachments/assets/a454feaa-11e6-44e3-9759-48038b58c741)|<img src="https://github.com/user-attachments/assets/612f4dae-7e26-495b-a803-b00d67d7d487" width="340" height="250"/> |
+|our|<img src="https://github.com/user-attachments/assets/1d50563e-3881-45eb-8b56-6c6479cbfd13" width="340" height="250"/>|<img src="https://github.com/user-attachments/assets/4f024c9e-00bd-4d04-b89b-98b32710eed7" width="340" height="250"/>|
+|our(free trajectory)| ![our_flower](https://github.com/user-attachments/assets/e744d0b9-d7dc-4098-9b15-2a08e3a33b82) |<img src="https://github.com/user-attachments/assets/fa6c27ec-9392-48fa-9976-cbfdcb2748e7" width="340" height="250"/>|
 ##### Tree
+| method  | scene1 video |    scene2 video        |
+| ------------- | ------------- | ------------- |
+| arf | <img src="https://github.com/user-attachments/assets/ce1b0066-e0be-47c3-a3f5-eaf34a1cbf72" width="340" height="250"/> | <img src="https://github.com/user-attachments/assets/a1790805-2d81-4fda-8b01-069f6538cc82" width="340" height="250"/> |
+| snerf| <img src="https://github.com/user-attachments/assets/5d730a7a-8e5c-4a4d-997a-cccaa80f3743" width="340" height="250"/> | <img src="https://github.com/user-attachments/assets/a8921467-b2a9-4122-83ae-9d9af9b16b61" width="340" height="250"/> |
+| ref-npr | <img src="https://github.com/user-attachments/assets/ec80a7a9-147e-49a6-91ea-01d93a7127f3" width="340" height="250"/> | <img src="https://github.com/user-attachments/assets/0a540df0-afaf-4da4-8557-42b06cce0cfd" width="340" height="250"/>  |
+| our | <img src="https://github.com/user-attachments/assets/b240436a-557a-4ff4-92ae-232f0c240348" width="340" height="250"/>  | <img src="https://github.com/user-attachments/assets/b3e4ec34-8af3-4d8a-b371-2754c2e67ae9" width="340" height="250"/>  |
+
 
 #### Figure 6
 ##### Truck
