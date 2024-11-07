@@ -21,6 +21,20 @@ https://github.com/user-attachments/assets/c4cf1f89-6009-4fd5-a2ed-49173bd1649d
 
 https://github.com/user-attachments/assets/d767f73f-83f5-434c-a540-338760391976
 ##### Horse
+#### Figure 4
+##### Flower
+##### Tree
+
+#### Figure 6
+##### Truck
+##### Horse
+
+#### Figure 7
+##### Truck
+##### Horse
+
+#### Figure 8
+##### Flower
 
 
 
