@@ -3,32 +3,39 @@
 ### The video showcasing the scenes in the regular paper
 #### Figure 1
 ##### Truck
-
-https://github.com/user-attachments/assets/93723c44-0132-4fda-bc92-0316865a50c9
-
-
-
-https://github.com/user-attachments/assets/d2f0e75d-c0af-419f-bf6b-25e4d74efa5b
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/93723c44-0132-4fda-bc92-0316865a50c9" controls="controls" style="max-width: 300px;"></video>
 
 
 
-https://github.com/user-attachments/assets/0f080537-a1ad-4114-9dd3-32c53173ee73
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/d2f0e75d-c0af-419f-bf6b-25e4d74efa5b" controls="controls" style="max-width: 300px;"></video>
 
 
 
-https://github.com/user-attachments/assets/c4cf1f89-6009-4fd5-a2ed-49173bd1649d
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/0f080537-a1ad-4114-9dd3-32c53173ee73" controls="controls" style="max-width: 300px;"></video>
 
 
 
-https://github.com/user-attachments/assets/d767f73f-83f5-434c-a540-338760391976
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/c4cf1f89-6009-4fd5-a2ed-49173bd1649d" controls="controls" style="max-width: 300px;"></video>
+
+
+
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/d767f73f-83f5-434c-a540-338760391976" controls="controls" style="max-width: 300px;"></video>
+
 ##### Horse
 
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/71f7d41b-3304-48eb-9f8d-9289cdc17ed0" controls="controls" style="max-width: 300px;"></video>
 
-https://github.com/user-attachments/assets/71f7d41b-3304-48eb-9f8d-9289cdc17ed0
 
 
+multi-stylegs video:
+<video src="https://github.com/user-attachments/assets/da50cdd9-c26f-464a-9472-35426290e6ee" controls="controls" style="max-width: 300;"></video>
 
-https://github.com/user-attachments/assets/da50cdd9-c26f-464a-9472-35426290e6ee
 
 
 
@@ -53,6 +60,13 @@ https://github.com/user-attachments/assets/da50cdd9-c26f-464a-9472-35426290e6ee
 
 #### Figure 6
 ##### Truck
+| method  | scene1 video | 
+| ------------- | -------------|
+| arf | <img src="https://github.com/user-attachments/assets/b9f4d4b3-b3ec-431a-92b4-9f11c634e672" width="500" height="300"/> |
+|  snerf  | <img src="https://github.com/user-attachments/assets/9bc12f57-b6c4-4e17-9ac9-9442a5f9c5bc" width="340" height="250"/>|
+|ref-npr |  <img src="https://github.com/user-attachments/assets/d0d73bc3-c34d-4488-a149-eec475c40e1b" width="340" height="250"/>|
+|our |  |
+
 ##### Horse
 
 #### Figure 7
