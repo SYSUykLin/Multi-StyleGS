@@ -1,5 +1,12 @@
+
 # Multi-StyleGS
 ## Video
+
+We use gaussian splatting viewer to generate video:
+| method  | scene gif |    scene video        |
+| ------------- | ------------- | ------------- |
+|our |  <img src="https://github.com/user-attachments/assets/7b3a8baf-9a06-4ad4-8e55-f253e452d4b7" width="500" height="300"/> |https://github.com/user-attachments/assets/83551ce8-301b-42cd-9971-f2613d666916|
+
 ### The video showcasing the scenes in the regular paper
 #### Figure 1
 ![image](https://github.com/user-attachments/assets/20ddcf09-105c-4a9c-b736-3a6910b6b08c)
@@ -116,5 +123,27 @@ Multi-style for family scene:
 
 ### Additional Results
 #### Van Gogh
+
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
+| arf|  <img src="https://github.com/user-attachments/assets/fb9351ec-e6aa-4290-8cf3-b00e796fa49e" width="500" height="300"/>|https://github.com/user-attachments/assets/c46cc04a-4e6c-4860-a90a-f76c113fe831|
+|our | <img src="https://github.com/user-attachments/assets/61815890-31a7-4414-9b5e-efb9c031e45b" width="500" height="300"/> |https://github.com/user-attachments/assets/363b38cb-4694-4849-af06-1e247bbccbbe|
 #### Picasso
+I didn't know what Picasso style was, so I searched randomly online for a picture.
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
+| arf|  <img src="https://github.com/user-attachments/assets/fb9351ec-e6aa-4290-8cf3-b00e796fa49e" width="500" height="300"/>|https://github.com/user-attachments/assets/c46cc04a-4e6c-4860-a90a-f76c113fe831|
+| our| <img src="https://github.com/user-attachments/assets/f89a985a-c605-4b1e-b36a-afd0d7ea1633" width="500" height="300"/>|https://github.com/user-attachments/assets/a5ba02a5-117a-40b0-aff7-ef7c61e908bb|
+#### Van Gogh and Picasso
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
+| our|  <img src="https://github.com/user-attachments/assets/ecf96ade-4818-4d47-b141-801bc63434cd" width="500" height="300"/>|https://github.com/user-attachments/assets/fde17c04-c78f-4310-b0c5-9a328b60ccc5|
+
+
+### Indoor Scene
+
+
+
+
+
 
