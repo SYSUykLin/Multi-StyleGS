@@ -2,10 +2,14 @@
 # Multi-StyleGS
 ## Video
 
+**Note: GitHub has a 10MB limit on uploaded video sizes, so we have speeded up and compressed the video.**
+
 We use gaussian splatting viewer to generate video:
 | method  | scene gif |    scene video        |
 | ------------- | ------------- | ------------- |
 |our |  <img src="https://github.com/user-attachments/assets/7b3a8baf-9a06-4ad4-8e55-f253e452d4b7" width="500" height="300"/> |https://github.com/user-attachments/assets/83551ce8-301b-42cd-9971-f2613d666916|
+
+
 
 ### The video showcasing the scenes in the regular paper
 #### Figure 1
