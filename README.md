@@ -2,45 +2,23 @@
 ## Video
 ### The video showcasing the scenes in the regular paper
 #### Figure 1
+![image](https://github.com/user-attachments/assets/20ddcf09-105c-4a9c-b736-3a6910b6b08c)
+
 ##### Truck
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/93723c44-0132-4fda-bc92-0316865a50c9" controls="controls" style="max-width: 300px;"></video>
-
-
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/d2f0e75d-c0af-419f-bf6b-25e4d74efa5b" controls="controls" style="max-width: 300px;"></video>
-
-
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/0f080537-a1ad-4114-9dd3-32c53173ee73" controls="controls" style="max-width: 300px;"></video>
-
-
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/c4cf1f89-6009-4fd5-a2ed-49173bd1649d" controls="controls" style="max-width: 300px;"></video>
-
-
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/d767f73f-83f5-434c-a540-338760391976" controls="controls" style="max-width: 300px;"></video>
+| method  | scene gif |    scene video        |
+| ------------- | ------------- | ------------- |
+|our |  <img src="https://github.com/user-attachments/assets/c1610a53-dc6a-4326-9fe7-ebb488309f4c" width="500" height="300"/> | https://github.com/user-attachments/assets/c6f36540-98d5-4e6f-a955-421d4493ea4b|
 
 ##### Horse
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/71f7d41b-3304-48eb-9f8d-9289cdc17ed0" controls="controls" style="max-width: 300px;"></video>
-
-
-
-multi-stylegs video:
-<video src="https://github.com/user-attachments/assets/da50cdd9-c26f-464a-9472-35426290e6ee" controls="controls" style="max-width: 300;"></video>
-
-
+| method  | scene gif |    scene video        |
+| ------------- | ------------- | ------------- |
+| our |<img src="https://github.com/user-attachments/assets/b650b5c2-90d6-44d8-9d80-40542b0084e2" width="500" height="300"/>  | https://github.com/user-attachments/assets/a28aa778-1acf-4d3d-9d7f-08d017a90cd4|
 
 
 
 #### Figure 4
+![image](https://github.com/user-attachments/assets/2f80b7bc-dedc-4bd7-a5a7-94015d9ceede)
+
 ##### Flower
 | method  | scene1 video |    scene2 video        |
 | ------------- | ------------- | ------------- |
@@ -59,26 +37,48 @@ multi-stylegs video:
 
 
 #### Figure 6
+![image](https://github.com/user-attachments/assets/e86fe113-79a8-4f06-9928-73c929dd3c43)
+
 ##### Truck
-| method  | scene1 video | 
-| ------------- | -------------|
-| arf | <img src="https://github.com/user-attachments/assets/b9f4d4b3-b3ec-431a-92b4-9f11c634e672" width="500" height="300"/> |
-|  snerf  | <img src="https://github.com/user-attachments/assets/9bc12f57-b6c4-4e17-9ac9-9442a5f9c5bc" width="500" height="300"/>|
-|ref-npr |  <img src="https://github.com/user-attachments/assets/d0d73bc3-c34d-4488-a149-eec475c40e1b" width="500" height="300"/>|
-|our |  <img src="https://github.com/user-attachments/assets/50a01859-47a7-427a-9f3e-392c4265f1d7" width="500" height="300"/> |
+| method  | scene1 gif | full video | 
+| ------------- | -------------|-------------|
+| arf | <img src="https://github.com/user-attachments/assets/b9f4d4b3-b3ec-431a-92b4-9f11c634e672" width="500" height="300"/> | https://github.com/user-attachments/assets/ac9ecf7c-f86f-4059-9f2b-dcf0ce7b6e0e|
+|  snerf  | <img src="https://github.com/user-attachments/assets/9bc12f57-b6c4-4e17-9ac9-9442a5f9c5bc" width="500" height="300"/>| https://github.com/user-attachments/assets/7da14a63-221c-4652-85b1-02403b65b2d8|
+|ref-npr |  <img src="https://github.com/user-attachments/assets/d0d73bc3-c34d-4488-a149-eec475c40e1b" width="500" height="300"/>|https://github.com/user-attachments/assets/ffdc04f8-3d7b-4c7b-b13a-a1e51949f298|
+|our |  <img src="https://github.com/user-attachments/assets/50a01859-47a7-427a-9f3e-392c4265f1d7" width="500" height="300"/> | https://github.com/user-attachments/assets/7917fe9b-1380-4dcc-96e0-d42812520242|
 
 ##### Horse
+| method  | scene1 gif | full video | 
+| ------------- | -------------|-------------|
+|arf | <img src="https://github.com/user-attachments/assets/687ec998-415f-444e-94bd-0eefe21e0863" width="500" height="300"/> | https://github.com/user-attachments/assets/2682a612-3e05-4f48-ae60-f7c8feede859|
+| snerf |  <img src="https://github.com/user-attachments/assets/ddd59f5b-88d6-4a25-9c9c-76089cc36eec" width="500" height="300"/>|https://github.com/user-attachments/assets/849e13a0-0098-4e9c-a527-e9de1905594b|
+|ref-npr |  <img src="https://github.com/user-attachments/assets/9bc253ad-6356-4e2c-9cef-cb6ad5196c8b" width="500" height="300"/>|https://github.com/user-attachments/assets/0305d9b7-544e-4105-9fc3-24f2fec8a77f|
+|our |  <img src="https://github.com/user-attachments/assets/008fc954-efc3-4bc3-8e2a-d3e1f494dc5d" width="500" height="300"/>|https://github.com/user-attachments/assets/e329d08e-3da5-4984-abfd-e48595382d69|
 
 #### Figure 7
+![image](https://github.com/user-attachments/assets/14f638d1-f3f4-4e4f-86f1-05f862f7491d)
+
 ##### Truck
+| method  | scene1 gif | full video | 
+| ------------- | -------------|-------------|
+| ref-npr | <img src="https://github.com/user-attachments/assets/7daeafd0-6f90-484e-a753-e708f02bd9c3" width="500" height="300"/>| https://github.com/user-attachments/assets/d1b415eb-5331-4ed7-80e0-62c7774207d7|
+| our |<img src="https://github.com/user-attachments/assets/b650b5c2-90d6-44d8-9d80-40542b0084e2" width="500" height="300"/>  | https://github.com/user-attachments/assets/a28aa778-1acf-4d3d-9d7f-08d017a90cd4|
+
+
 ##### Horse
+| method  | scene1 gif | full video | 
+| ------------- | -------------|-------------|
+| ref-npr | <img src="https://github.com/user-attachments/assets/ff618898-9424-4272-a23a-64a930e7ed17" width="500" height="300"/>| https://github.com/user-attachments/assets/76622985-693a-4aa1-b0c8-46e5d985d5c0|
+| our |<img src="https://github.com/user-attachments/assets/a7c8ddf2-498b-4762-a1f1-a9cf2f2237d0" width="500" height="300"/> | https://github.com/user-attachments/assets/3701d9c3-db02-4d7c-a93f-6cc60f5e8cb9|
 
 #### Figure 8
+![image](https://github.com/user-attachments/assets/2112e321-2199-4c28-8d29-121a3e0fcae5)
+
 ##### Flower
-
-
-
-
+| method  | scene1 gif | 
+| ------------- | -------------|
+|ref-npr |<img src="https://github.com/user-attachments/assets/d3b2ba4c-f9eb-465b-9cdb-34b380bf9851" width="500" height="300"/> |
+|our |<img src="https://github.com/user-attachments/assets/7fd1f06c-9198-4082-a368-9dc471ead631" width="500" height="300"/>  |
 
 
 
