@@ -12,7 +12,7 @@
 ##### Horse
 | method  | scene gif |    scene video        |
 | ------------- | ------------- | ------------- |
-| our |<img src="https://github.com/user-attachments/assets/b650b5c2-90d6-44d8-9d80-40542b0084e2" width="500" height="300"/>  | https://github.com/user-attachments/assets/a28aa778-1acf-4d3d-9d7f-08d017a90cd4|
+| our |<img src="https://github.com/user-attachments/assets/a7c8ddf2-498b-4762-a1f1-a9cf2f2237d0" width="500" height="300"/> | https://github.com/user-attachments/assets/3701d9c3-db02-4d7c-a93f-6cc60f5e8cb9|
 
 
 
@@ -83,3 +83,21 @@
 
 
 ### The video showcasing the scenes in the supplyment detail
+#### Figure 1
+![image](https://github.com/user-attachments/assets/6f0291da-aa03-4284-8c36-a29a44f925a8)
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
+| our| <img src="https://github.com/user-attachments/assets/df799c64-bdd1-4749-9a5d-196b2f5b3ba3" width="500" height="300"/> |https://github.com/user-attachments/assets/429228cb-961e-448d-a418-68777eb20955|
+| our(only vgg)| <img src="https://github.com/user-attachments/assets/cb6ffa0c-a9aa-4282-bc78-c3cfd4e3fea7" width="500" height="300"/> | https://github.com/user-attachments/assets/c585548d-8757-4c44-b54d-e65a67a59c8a|
+
+#### Figure 4
+![image](https://github.com/user-attachments/assets/862e2848-99fd-4d8a-842b-345e8a2385c1)
+
+| style name  | (our method)scene gif | (our method)scene video|
+| ------------- | -------------|-------------|
+| Style Composition: bipartite matching | <img src="https://github.com/user-attachments/assets/847cac33-ba58-4583-9d2f-33be252e3e86" width="500" height="300"/>|https://github.com/user-attachments/assets/5f37f510-b389-40a0-ac7b-c32381155506|
+|Style Composition: manual designation | <img src="https://github.com/user-attachments/assets/5637f0cf-7563-4e6a-9d0b-082d9be06928" width="500" height="300"/> |https://github.com/user-attachments/assets/141132ae-08ec-4ad5-b19f-0f174317ed08|
+|Style Composition: bipartite matching |<img src="https://github.com/user-attachments/assets/c1610a53-dc6a-4326-9fe7-ebb488309f4c" width="500" height="300"/> | https://github.com/user-attachments/assets/c6f36540-98d5-4e6f-a955-421d4493ea4b|
+|Style Foreground | | |
+|Style Background | | |
+
