@@ -98,6 +98,6 @@
 | Style Composition: bipartite matching | <img src="https://github.com/user-attachments/assets/847cac33-ba58-4583-9d2f-33be252e3e86" width="500" height="300"/>|https://github.com/user-attachments/assets/5f37f510-b389-40a0-ac7b-c32381155506|
 |Style Composition: manual designation | <img src="https://github.com/user-attachments/assets/5637f0cf-7563-4e6a-9d0b-082d9be06928" width="500" height="300"/> |https://github.com/user-attachments/assets/141132ae-08ec-4ad5-b19f-0f174317ed08|
 |Style Composition: bipartite matching |<img src="https://github.com/user-attachments/assets/c1610a53-dc6a-4326-9fe7-ebb488309f4c" width="500" height="300"/> | https://github.com/user-attachments/assets/c6f36540-98d5-4e6f-a955-421d4493ea4b|
-|Style Foreground | | |
-|Style Background | | |
+|Style Foreground |<img src="https://github.com/user-attachments/assets/3897ec86-6c68-4e28-97ec-d5f6ef50781a" width="500" height="300"/> | https://github.com/user-attachments/assets/2550d49b-13fe-49ed-9bf2-05cf137ec8a6|
+|Style Background |<img src="https://github.com/user-attachments/assets/af6a5acf-d3df-4ed1-b067-be17912c5fba" width="500" height="300"/> | https://github.com/user-attachments/assets/f308bc9e-3407-4380-811f-ebabfe5dc1b0|
 
