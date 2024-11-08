@@ -100,4 +100,19 @@
 |Style Composition: bipartite matching |<img src="https://github.com/user-attachments/assets/c1610a53-dc6a-4326-9fe7-ebb488309f4c" width="500" height="300"/> | https://github.com/user-attachments/assets/c6f36540-98d5-4e6f-a955-421d4493ea4b|
 |Style Foreground |<img src="https://github.com/user-attachments/assets/3897ec86-6c68-4e28-97ec-d5f6ef50781a" width="500" height="300"/> | https://github.com/user-attachments/assets/2550d49b-13fe-49ed-9bf2-05cf137ec8a6|
 |Style Background |<img src="https://github.com/user-attachments/assets/af6a5acf-d3df-4ed1-b067-be17912c5fba" width="500" height="300"/> | https://github.com/user-attachments/assets/f308bc9e-3407-4380-811f-ebabfe5dc1b0|
+#### Figure 9
+![image](https://github.com/user-attachments/assets/e5b406e3-1023-4d67-8006-8fe0411bc066)
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
+|snerf |<img src="https://github.com/user-attachments/assets/738bc71f-fb15-4476-a64a-c48857ede738" width="500" height="300"/> |https://github.com/user-attachments/assets/6727327d-efd4-4a64-b4e6-fcd016cac155|
+|arf |<img src="https://github.com/user-attachments/assets/d59d9187-1e71-4b5d-a49b-f2e02e417c6b" width="500" height="300"/> | https://github.com/user-attachments/assets/c20e5e88-00dc-4dc7-b0f4-d3909def7f15|
+|ref-npr | <img src="https://github.com/user-attachments/assets/860916f3-c818-4003-bded-02a5e59d9f4b" width="500" height="300"/>| https://github.com/user-attachments/assets/c2fdb6cd-4dec-4be1-9f9b-af50fa087d1d|
+|our | <img src="https://github.com/user-attachments/assets/45941373-e635-4b9a-854a-2154fd449413" width="500" height="300"/> |https://github.com/user-attachments/assets/8d2ffa74-f1d6-4c52-a3e6-495bae5c47b2|
+
+Multi-style for family scene:
+|our | <img src="https://github.com/user-attachments/assets/ca81291a-99b4-4916-8ca3-589f43d5adfe" width="500" height="300"/> |https://github.com/user-attachments/assets/6893dc5c-0435-4572-895f-1f667defb666|
+
+### Additional Results
+#### Van Gogh
+#### Picasso
 
