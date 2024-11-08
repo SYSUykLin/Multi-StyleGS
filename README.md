@@ -110,6 +110,8 @@
 |our | <img src="https://github.com/user-attachments/assets/45941373-e635-4b9a-854a-2154fd449413" width="500" height="300"/> |https://github.com/user-attachments/assets/8d2ffa74-f1d6-4c52-a3e6-495bae5c47b2|
 
 Multi-style for family scene:
+| method  | scene gif | scene video|
+| ------------- | -------------| -------------|
 |our | <img src="https://github.com/user-attachments/assets/ca81291a-99b4-4916-8ca3-589f43d5adfe" width="500" height="300"/> |https://github.com/user-attachments/assets/6893dc5c-0435-4572-895f-1f667defb666|
 
 ### Additional Results
