@@ -159,8 +159,8 @@ We perform experiments on replica datasets. Due to image compression, GIFs may b
 
 | style images  | scene gif | scene video|
 | ------------- | -------------| -------------|
-| <img src="https://github.com/user-attachments/assets/982208c9-4ecc-49ec-bd78-ea937465d630" width="100" height="100"/>| <img src="https://github.com/user-attachments/assets/aa39cdf1-be7e-41f2-a73a-a20f1fd5252b"/>|https://github.com/user-attachments/assets/a300305f-7b46-4b74-a575-6f829ad9db9f  |
-| <img src="https://github.com/user-attachments/assets/bceda66f-67ac-4128-85f9-159c255d411e" width="100" height="100"/>|  <img src="https://github.com/user-attachments/assets/2139b5b0-b352-478a-a7fd-3d43d21ce8f8"/>|https://github.com/user-attachments/assets/b4cc4d2b-4c7d-47d2-8f45-27ff6f12817a |
+|  <img src="https://github.com/user-attachments/assets/bceda66f-67ac-4128-85f9-159c255d411e" width="100" height="100"/>| <img src="https://github.com/user-attachments/assets/aa39cdf1-be7e-41f2-a73a-a20f1fd5252b"/>|https://github.com/user-attachments/assets/a300305f-7b46-4b74-a575-6f829ad9db9f  |
+|<img src="https://github.com/user-attachments/assets/982208c9-4ecc-49ec-bd78-ea937465d630" width="100" height="100"/>|  <img src="https://github.com/user-attachments/assets/2139b5b0-b352-478a-a7fd-3d43d21ce8f8"/>|https://github.com/user-attachments/assets/b4cc4d2b-4c7d-47d2-8f45-27ff6f12817a |
 
 
 
