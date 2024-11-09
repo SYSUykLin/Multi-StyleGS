@@ -129,6 +129,13 @@ Multi-style for family scene:
 |our | <img src="https://github.com/user-attachments/assets/ca81291a-99b4-4916-8ca3-589f43d5adfe" width="500" height="300"/> |https://github.com/user-attachments/assets/6893dc5c-0435-4572-895f-1f667defb666|
 
 ### Additional Results
+
+| style images | scene gif | scene video |
+|------------- | -------------| -------------|
+|foreground: <img src="https://github.com/user-attachments/assets/70951db1-a4b8-4a69-b12e-e2f6ee5a572a" width="100" height="100"/>, background: <img src="https://github.com/user-attachments/assets/68c356e6-e46d-4151-a25e-6d7223b86a95" width="100" height="100"/>|<img src="https://github.com/user-attachments/assets/4d17d450-ee6b-47be-8b0e-d625aa551d97" width="500" height="300"/> |https://github.com/user-attachments/assets/79c0261e-4546-447d-b219-b96d360eb870|
+|foreground: <img src="https://github.com/user-attachments/assets/f36167c0-510d-4854-be32-896300bac75c" width="100" height="100"/>, background: <img src="https://github.com/user-attachments/assets/6bc6db2d-b91c-46cf-bdaa-cf7357174eca" width="100" height="100"/> |  <img src="https://github.com/user-attachments/assets/b4f181d7-69a3-4f93-bec8-7460f53a3707" width="500" height="300"/>| https://github.com/user-attachments/assets/464ba47f-5852-487a-afca-33b19be63979|
+| foreground: <img src="https://github.com/user-attachments/assets/4bddabcd-32e8-4c27-ba12-6712d89a39f1" width="100" height="100"/>, background: <img src="https://github.com/user-attachments/assets/258c983c-a57b-462b-ac83-115a764a9388" width="100" height="100"/> |  <img src="https://github.com/user-attachments/assets/5f75d56d-1f5d-4a0d-adcd-e438cbafbf38" width="500" height="300"/>| https://github.com/user-attachments/assets/c039c144-8a5d-4df9-91e1-139868b5c25a|
+
 #### Van Gogh
 
 Style Image:
