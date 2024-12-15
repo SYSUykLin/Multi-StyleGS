@@ -2,7 +2,8 @@
 # Multi-StyleGS: Stylized Gaussian Splatting with Multiple Styles
 
 ## Code
-The code will be published after the paper is accepted.
+* ckpts
+* style code
 
 ## Video Results
 **Note: GitHub has a 10MB limit on uploaded video sizes, so we have speeded up and compressed the video.**
