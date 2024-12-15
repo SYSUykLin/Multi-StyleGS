@@ -2,6 +2,7 @@
 # Multi-StyleGS: Stylized Gaussian Splatting with Multiple Styles
 
 ## Code
+* stylied GS model
 * ckpts
 * style code
 
